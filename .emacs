@@ -54,7 +54,7 @@
 (ido-mode 1)
 
 ;; MuMaMo
-(require 'mumamo-settings)
+;; (require 'mumamo-settings)
 
 ;; Markdown mode
 (require 'markdown-settings)
@@ -63,7 +63,7 @@
 (require 'python-settings)
 
 ;; LaTeX and Auctex
-(require 'latex-settings)
+;; (require 'latex-settings)
 
 ;; SCSS Mode
 (require 'scss-settings)
